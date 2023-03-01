@@ -1,4 +1,9 @@
 {
+  "editor.tabSize": 2,
+  "search.exclude": {
+    ".next": true,
+    "node_modules": true,
+  },
   "typescript.tsdk": "node_modules/typescript/lib",
   "typescript.enablePromptUseWorkspaceTsdk": true
 }
